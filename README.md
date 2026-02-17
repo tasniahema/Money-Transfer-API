@@ -134,7 +134,6 @@ Used in headers:Authorization: Bearer {{admin_token}}
 |-----|-------|------------|
 /admin-create-virtual-money | POST | Create system money |
 /system-virtual-balance | GET | System balance |
-
 ---
 
 #  Recommended Test Flow
