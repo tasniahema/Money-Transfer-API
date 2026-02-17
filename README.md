@@ -1,6 +1,6 @@
 #  Money Transfer API – Postman Collection
 
-A professional Postman collection for testing the ** Money Transfer API ** of NewrozTech.  
+A professional Postman collection for testing the Money Transfer API  
 This collection supports secure authentication and financial transactions between System, Agent, Customer, and Merchant roles.
 
 
@@ -196,7 +196,6 @@ README.md
 
 Tested By: Tasnia Sultana Hema
 Project: Money Transfer API  
-Company: NewrozTech  
 Testing Type: API Functional & Validation Testing  
 
 ---
